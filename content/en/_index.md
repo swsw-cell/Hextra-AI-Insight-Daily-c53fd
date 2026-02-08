@@ -3,80 +3,81 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-06
+next: /en/2026-02/2026-02-08
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily Briefing: February 8, 2026
+## AI Daily News 2026/2/9
 
-> `AI News` | `Daily Morning Read` | `Aggregated Data` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Read` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open-Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Top Stories**
+### **Today's Summary**
 
 ```
-Waymo and DeepMind launch Genie3 world model, generating ultra-realistic 3D simulation environments.
-Mianbi Intelligence's Pinecone Pi 275TOPS computing board supports offline edge large model operation.
-Qianwen App's 3 billion free order campaign breaks 5 million orders in 5 hours, topping Apple's free chart.
-OmniMoE's vector-level atomic expert routing reduces complexity to O(√N), boosting inference speed by 10.9x.
-China's 3 Dawn scaleX ten-thousand card clusters go online, supporting trillion-parameter model training.
+Figure 03 robot, powered by Helix 02 three-tier architecture, achieves autonomous kitchen operation
+Claude Code launches Fast mode, 2.5x speed boost but 12.5x cost increase
+AI investment frenzy leads to comprehensive shortage of GPUs, power, and technicians; estimated $650 billion annual return needed
+Claude-Mem persistent memory system hits GitHub trending, saves 90% Tokens
+Opus 4.6's independent thinking surpasses ChatGPT, becoming the daily go-to choice
 ```
 
 ### Product & Feature Updates
 
-1.  **Waymo** just dropped a [new world model (AI News)](https://www.jiqizhixin.com/articles/2026-02-07-5) built on Genie 3, in collaboration with DeepMind. This bad boy can whip up ultra-realistic 3D environments, simulating everything from tornadoes to unexpected elephant encounters! It supports multi-sensor data output, letting engineers tweak simulations with simple language prompts. Pretty neat, right?
+1.  **Figure 03**'s kitchen demo is absolutely blowing up! 💪 Figure AI's latest robot just dropped, powered by the **Helix 02 system**. This bot is crushing kitchen tasks autonomously – it smoothly closes drawers with its hip and even lifts the dishwasher door with its foot. Talk about full-body coordination – impressive stuff! Check out the [Figure AI News (AI Info)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652673084&idx=3&sn=98cf2158bea20402903319d46f21e150) for more. <br/>![AI Info: Figure 03 Robot Operating Dishwasher in Kitchen](https://source.hubtoday.app/images/2026/02/news_01kgyv6z18efman4df18dk0w3p.gif)<br/>
 
-2.  **Mianbi Intelligence** [unveiled its first AI-native edge development board (AI News)](https://www.aibase.com/zh/news/25353), the Pinecone Pi. This board packs a punch with **275TOPS computing power**, perfectly suited for MiniCPM edge large models, and comes with integrated microphones and cameras. It supports natural language direct control of hardware 💡, and offline operation ensures top-notch privacy. Expect a full launch mid-2026!
-    <br/>![AI News: Pinecone Pi Development Board Appearance](https://source.hubtoday.app/images/2026/02/news_01kgw5qffzebhbp6r82dh4jwt4.avif)<br/>
+2.  The **Helix 02** system's three-tier 'brain' architecture has been revealed! 🧠 It uses an **S0/S1/S2** design. S0 acts like a cerebellum, handling balance control at 1kHz. S1 integrates all sensors, orchestrating full-body commands at 200Hz. S2 understands language and plans tasks, finally waving goodbye to the 'turn-based' robot era. Get the [Technical Details (AI Info)](https://www.figure.ai/news/helix-02).
 
-3.  **Qianwen App** has absolutely dominated the Apple App Store, with its [3 billion free order campaign (AI News)](https://www.qbitai.com/2026/02/377505.html) breaking 5 million orders in just 5 hours! 🎉 This pushed it past Doubao and Yuanbao to claim the #1 spot on the free chart, creating a "Qian-Yuan-Dou" market dynamic. Milk tea shops saw orders explode, and delivery riders were raking in hundreds in a single morning. Plus, it's integrated with Taobao Flash Purchase and Alipay, becoming a truly "get-things-done" AI assistant.
+3.  Okay, **Figure 03**'s fingertips are seriously next-level! Its new palm camera and tactile sensors can detect forces as low as 3 grams, making tasks like picking up a pill a breeze. It can precisely control things like twisting bottle caps and pushing syringes. Now *that's* what we call true dexterity! 🤯 Find out more here: [Source (AI Info)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652673084&idx=3&sn=98cf2158bea20402903319d46f21e150).
 
-4.  **Volcano Engine's AgentKit** is here to tackle enterprise adoption challenges, specifically targeting the OpenClaw security vulnerability issue 🛡️. This solution uses AI reverse engineering to intelligently transform existing systems. With its MCP tool, it achieves precise recall, slashing **Token consumption by 70%**. Its zero-trust identity system ensures every tool call is controllable and auditable. Strong stuff! 💪
+4.  **Claude Code** just rolled out its new **Fast mode**! 🚀 You'll get a **2.5x** speed boost, but be ready for a 5x price hike. That means your spending velocity jumps by 12.5x – burning hundreds of bucks a day isn't just a dream anymore. Check out the [Official Documentation (AI Info)](https://code.claude.com/docs/en/fast-mode) for details. <br/>
 
-### Frontier Research
+### Cutting-Edge Research
 
-1.  **GenArena** has introduced a new framework for visual generation evaluation, shaking things up! Traditional evaluation methods often miss the mark with human perception 🧠, but the [GenArena paper (AI News)](https://arxiv.org/abs/2602.06013) offers a solution. By using a paired comparison paradigm instead of absolute scoring, open-source models actually outshine top closed-source ones! Evaluation accuracy jumps by **over 20%**, and its correlation with the LMArena leaderboard hits 0.86 💡, far surpassing conventional methods.
+1.  **Anthropic** has dropped its official 33-page **Skills building guide**! 📚 Essentially, a Skill is 'teaching material' packaged as YAML + Markdown. It uses a three-tier progressive disclosure model, loading only when needed. Grab the [Guide Download (AI Info)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) here. <br/>![AI Info: Anthropic Skills Guide Document Cover](https://source.hubtoday.app/images/2026/02/53362891aa62984addd94ea76410ec3a.avif)<br/>
 
-2.  **OmniMoE** is pushing the boundaries of expert granularity! The Mixture-of-Experts (MoE) architecture gets a [further evolution (AI News)](https://arxiv.org/abs/2602.05711) with the introduction of vector-level atomic experts. Its Cartesian product router slashes routing complexity from O(N) to O(√N). With 1.7 billion active parameters, it achieves **50.9% zero-shot accuracy**, and inference latency drops from 73ms to a blazing 6.7ms ⚡—that's a 10.9x speedup! The code is already open source, too.
+2.  Think of the **Skill and MCP relationship** like a kitchen: MCP is the professional kitchen providing the tools, while Skill is the recipe providing the steps. There are five major practical modes covering workflow orchestration and multi-service coordination. Without Skills, MCP is like having all the fancy tools but no idea how to cook! 🍳 Get the [Details (AI Info)](https://x.com/shao__meng/status/2020491406423490782). <br/>
 
 ### Industry Outlook & Social Impact
 
-1.  **Su Weijie** has received the prestigious COPSS Award, the highest honor in statistics—often called the "Nobel Prize of Statistics" ✨. A Chinese scholar has earned this recognition again after 14 years! Su Weijie, an associate professor at UPenn, was honored for his contributions to large model statistical foundations and privacy-preserving data analysis. His proposed **Gaussian differential privacy framework** was even used in the 2020 US Census 💡, marking him as a key figure from Peking University's "Golden Generation" of mathematics.
+1.  The **AI investment boom** is causing a cascade of shortages. 📈 GPUs, RAM, power, and skilled technicians are all in tight supply. Some estimate an additional **$650 billion in annual revenue** is needed just for a reasonable return. We've got purchased GPUs piling up in warehouses, but no power to run 'em – the 'bubble' debate is heating up! 🔥 Read more from the [Washington Post (AI Info)](https://newshacker.me/story?id=46922969). <br/>
 
-2.  **Amap's Eagle Eye System** has received a major upgrade, ready to safeguard this year's Spring Festival travel rush. With an estimated [9.5 billion person-times flowing (AI News)](https://www.qbitai.com/2026/02/377529.html) and 80% choosing self-driving, it's a huge undertaking. Boosted by the Amap TrafficVLM model, the upgraded system can proactively identify **24 types of potential risks** and send second-level warnings. Last National Day, G2 Beijing-Shanghai Expressway saw accidents drop by about 10% year-on-year ⬇️, proving that the more users, the more accurate the warnings get.
+2.  Here's a weird one: **white-collar layoffs are happening right alongside blue-collar shortages**. Software designers are getting cut, while electrician training takes years. Discussions around Universal Basic Income (UBI) are resurfacing, with worries about damaged consumer spending power spreading. 📉 Erosion of the tax base and wealth centralization among a few giants are becoming major focal points. Dive deeper here: [Source (AI Info)](https://newshacker.me/story?id=46922969). <br/>
 
-3.  **China's AI computing clusters** have just gone live with 30,000 AI cards. While Musk talks about "refining alchemy in space" 🚀, China is firmly grounded: three Dawn scaleX [ten-thousand card superclusters (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652672670&idx=1&sn=efc09f289fa751b3cecf9c566c6cec60) are now operational at national supercomputing internet core nodes. These beasts can support **trillion-parameter model** training. With an open architecture compatible with multiple domestic AI card brands, they've already adapted to over 400 mainstream large models. Talk about serious compute! 💪
+3.  The **fear of AI 'slop'** is sparking some serious quality debates. 😱 About 90% of 'good enough' AI-generated content is flooding the market. Some worry about skill degradation being amplified, pushing artists and craftspeople out. Adobe's stock drop is a signal that business models are facing a major shake-up. Check out the [HN Discussion (AI Info)](https://newshacker.me/story?id=46933067). <br/>
 
-4.  **Anthropic and OpenAI** are locked in an AI ad battle! Anthropic's Super Bowl commercial [mocking ChatGPT for adding ads (AI News)](https://www.jiqizhixin.com/articles/2026-02-06-6) promised Claude would remain permanently ad-free 🚫. OpenAI's Sam Altman fired back with an essay, accusing Anthropic of "double standards" 😤 and emphasizing that OpenAI faces different challenges serving 800 million users. Netizens are debating the two companies' business model differences, especially since OpenAI is projected to burn through **$9 billion** this year. Wild times!
+4.  **Software engineering** is getting back to its design roots. In the AI era, design is way more crucial than line-by-line coding. Warnings are out about 'vibe coding' risks, and security audits are the new hurdle. Prompt engineering and `agents.md` are becoming essential new skill sets, but frameworks still hold their value. Read the [Original (AI Info)](https://newshacker.me/story?id=46923543). <br/>
 
-### Open Source TOP Projects
+5.  So, what are the **largest token consumption scenarios** predicted? 🤔 Apparently, 'greed, lust, and fear of death' are the true 'must-haves.' Adult websites have already proven to be the strongest commercializers. Investment in healthcare computing power is still nowhere near enough. Birth, aging, sickness, death, plus entertainment to fill the time – these are the sure bets! Check out the [Jike (AI Info)](https://m.okjike.com/originalPosts/69886fa6c5a1d4e6492129cc). <br/>
 
-1.  **The Shannon project** has gone viral! This [Shannon project (AI News)](https://github.com/KeygraphHQ/shannon) ⭐8.0k is all about finding vulnerabilities in web applications 🔍. It achieved an impressive **96.15% success rate** in the prompt-free, source-aware XBOW benchmark. Fully automated, it uncovers real security flaws, making it a powerful new weapon for security researchers. 🛡️
+### Top Open-Source Projects
 
-2.  **GitButler**, the version control client, keeps evolving. This [open-source Git client (AI News)](https://github.com/gitbutlerapp/gitbutler) ⭐17.8k is built with Tauri/Rust/Svelte 🦀. It supports Windows, Mac, and Linux, boasting a modern interface and smooth operations 💡 to make version control more efficient. A game-changer!
+1.  **Claude-Mem** has officially hit the top of the GitHub trending list! ⭐ This persistent memory system, with 2.3k stars, directly tackles the pain point of cross-session amnesia. Its three-tier progressive retrieval 🚀 saves a whopping **90% of Tokens**. 'Endless mode' cuts it by 95% and boosts tool call limits by 20x. Pretty wild! 🤯 Check out the [GitHub Repo (AI Info)](https://github.com/thedotmack/claude-mem).
 
-3.  **WaveTerm** is here to create seamless terminal workflows! This [open-source cross-platform terminal (AI News)](https://github.com/wavetermdev/waveterm) ⭐17.1k focuses on a smooth workflow experience, supporting multi-tab and split-screen operations 🖥️. It's a daily essential for developers, letting you ditch the terminal-switching hassle!
+2.  **Pydantic** has rolled out **Monty**, a minimal and secure Python interpreter! 🔥 Written in Rust with 2.2k stars, it's specifically designed for AI use, offering more controlled code execution. Find it on [GitHub (AI Info)](https://github.com/pydantic/monty). <br/>
 
-4.  **LikeC4** ensures your architecture diagrams are always up-to-date. The [LikeC4 project (AI News)](https://github.com/likec4/likec4) ⭐1.9k defines architecture diagrams with code 📊. It supports real-time collaboration and version evolution, keeping your charts in sync with your code 💡. Say goodbye to outdated architecture documentation!
+3.  **MiniCPM-o** is reportedly hitting Gemini levels! 🤩 This visual-voice multimodal real-time stream has garnered 23.3k stars 🚀. It runs on mobile, enabling full-duplex conversations. Made by OpenBMB, it's a mobile game-changer! See it on [GitHub (AI Info)](https://github.com/OpenBMB/MiniCPM-o). <br/>
+
+4.  **LikeC4** is here to visualize architecture evolution! This 'code as architecture diagram' tool has 2.2k stars, offering real-time collaboration. Your software architecture will always stay fresh and up-to-date! ✨ Check it out on [GitHub (AI Info)](https://github.com/likec4/likec4). <br/>
+
+5.  **GitButler**, a new-gen version control client, is making waves! Built on the Tauri/Rust/Svelte tech stack with 18.2k stars 🔥, it offers a fresh take on Git-backed version control. Get it on [GitHub (AI Info)](https://github.com/gitbutlerapp/gitbutler). <br/>
 
 ### Social Media Shares
 
-1.  **Agent Arena's AI prompt injection test** has sparked heated debate. [Hacker News discussion (AI News)](https://newshacker.me/story?id=46911873) is buzzing about this project, which uses honeypot web pages to trick AI. Gemini 3 could spot hidden injections📍, but Codex just spat out the verification token directly. The community has proposed protection tools like `scurl` and is questioning whether AI-generated content should even be submitted to Show HN. 🤔
+1.  **Opus 4.6**'s independent thinking capability is seriously impressive! ✨ ChatGPT can be a bit too flattering and might lead you astray. But with Opus, when you see its thought process, you just get this intuitive feeling that its IQ is through the roof! While Codex 5.3 is strong for coding, its thinking is weaker. For daily use, Opus is the go-to choice. Check out the [Tweet (AI Info)](https://x.com/oran_ge/status/2020264186081898764). <br/>![AI Info: Opus 4.6 Model Thinking Process Screenshot](https://source.hubtoday.app/images/2026/02/9151e408734fa2670f5728b50f041f10.avif)<br/>
 
-2.  **Baoyu** shared some wisdom on Agent memory updates. According to him, you don't need to make [Agent memory (AI News)](https://x.com/dotey/status/2019967340394303611) remember things it did right 🧠; it's the mistakes that need reviewing! When an Agent gets something right, turn it into a **Skill** so it can nail it again next time 💡 and avoid repeating pitfalls. Smart advice!
-    <br/>![AI News: Baoyu's Shared Agent Memory Management Interface Screenshot](https://source.hubtoday.app/images/2026/02/news_01kgw5qnxae319jb5htmcz0p5t.avif)<br/>
+2.  Talk about a blast from the past! The joke used to be, 'Just give the code to the data entry person.' Now, **we outline our ideas, and watch AI type out the code**. 🤖 It's like we've come full circle, and the 'data entry person' is now AI. Wild! Check out this [Tweet (AI Info)](https://x.com/frxiaobei/status/2020317743443312693). <br/>
 
-3.  **Twitter's new API** is effectively killing off free access, as Guicang discovered. [Twitter's new API (AI News)](https://x.com/op7418/status/2020029306827911437) makes free access nearly impossible now 😅. However, the new API supports the MCP protocol, allowing developers to use it through paid plans. The official word is they're opening up the ecosystem to welcome the next generation of X apps.
+3.  **Seedance 2.0** can whip up a video from a single sentence! The biggest surprise? The professional editing touches are spot on! 🤩 However, the major downside is that you can't turn off the subtitles, and there are a ton of Chinese typos. See the [Tweet Video (AI Info)](https://x.com/gefei55/status/2020287739602911537).
 
-4.  **Skywork Desktop** is finally making PCs truly AI-powered. Fanren Xiaobei [recommends Skywork Desktop (AI News)](https://x.com/frxiaobei/status/2019680132039078397) 🖥️, calling it what an AI PC should be. It integrates directly at the operating system level, so you can boot up, dump your tasks on the computer, and pretty much clock out! Windows users won't have to wait for Claude Cowork anymore. 💪
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgw5s59zfyqajhqfnt9a1sc7.mp4" controls="controls" width="100%"></video><br/>
+4.  When it comes to **backend moats**, it seems the only missing piece is someone to take the blame! 😂 Try throwing some 'spaghetti code' at GPT-5.3-codex or Opus 4.6. If your test coverage is decent, they can generally handle it. Break down microservices into smaller chunks, and agents can easily tackle them. Check out this [Tweet (AI Info)](https://x.com/dotey/status/2020185462175068538). <br/>
 
 ---
 
-## **AI Daily Briefing: Audio Edition**
+## **AI Daily News Audio Version**
 
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Next Life Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Lai Sheng Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
